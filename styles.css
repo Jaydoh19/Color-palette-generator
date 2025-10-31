@@ -121,6 +121,33 @@ h1::after{
 
 @media(max-width: 375px){
   #generate-btn{
-    margin-left: 30px;
+    margin-left: 25px;
   }
 }
+
+
+@media(max-width: 430px){
+   #generate-btn{
+    margin-left: 55px;
+  }
+}
+
+@media(max-width: 390px){
+   #generate-btn{
+    margin-left: 35px;
+  }
+}
+
+@media(max-width: 412px){
+   #generate-btn{
+    margin-left: 45px;
+  }
+}
+
+@media(max-width: 412px){
+   #generate-btn{
+    margin-left: 45px;
+  }
+}
+
+
